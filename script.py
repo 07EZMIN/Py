@@ -21,7 +21,7 @@ def information(info):
     write("b" + str(i), info[key[i]])
 
 # 배경 색깔 설정
-colors = ["#FF0000", "#0000FF"]
+colors = ["#000000", "#000000"]
 background(colors)
 
 # 이름과 설명, 버튼에 들어갈 글 설정
